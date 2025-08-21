@@ -1,0 +1,1 @@
+implementation-of-multi-layer-perceptron-from-scratch项目目前来看d2l的ch3方法应该是被跟新掉了 跑不出来
